@@ -1,0 +1,13 @@
+{
+  "submissionId": "20260216-153435-test",
+  "packId": "test",
+  "title": "Test",
+  "authorName": "bslid",
+  "createdAtUtc": "2026-02-16T15:34:35.2037797Z",
+  "includedProfiles": [
+    "No extra weapons (recording)"
+  ],
+  "totalWorkshopIds": 18,
+  "manifestRelativePath": "main/packs/test.json",
+  "previewRelativePath": "main/previews/default.png"
+}

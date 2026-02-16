@@ -1,0 +1,13 @@
+{
+  "packId": "test",
+  "title": "Test",
+  "authorName": "bslid",
+  "shortDescription": "",
+  "tags": [],
+  "createdAtUtc": "2026-02-16T15:34:35.2037797Z",
+  "updatedAtUtc": "2026-02-16T15:34:35.2037797Z",
+  "downloadCount": 0,
+  "previewImageUrl": "https://raw.githubusercontent.com/B1progame/Vtol-Vr-Workshop/main/main/previews/default.png",
+  "manifestUrl": "https://raw.githubusercontent.com/B1progame/Vtol-Vr-Workshop/main/main/packs/test.json",
+  "schemaVersion": 1
+}

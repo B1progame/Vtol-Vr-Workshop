@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "metadata": {
+    "packId": "test",
+    "title": "Test",
+    "authorName": "bslid",
+    "description": "",
+    "tags": [],
+    "version": "1.0.0",
+    "changelog": "Initial upload"
+  },
+  "profilePackage": {
+    "schemaVersion": 1,
+    "packageName": "Test",
+    "createdAtUtc": "2026-02-16T15:34:35.2037797Z",
+    "profiles": [
+      {
+        "name": "No extra weapons (recording)",
+        "notes": "",
+        "enabledWorkshopIds": [
+          "3492785585",
+          "3370893943",
+          "3309414153",
+          "3475865183",
+          "3504864723",
+          "3310033056",
+          "3515977984",
+          "3354213186",
+          "3309327185",
+          "3443339288",
+          "3322051663",
+          "3427575906",
+          "3309195716",
+          "3491953935",
+          "3621737142",
+          "3311107928",
+          "3265689427",
+          "3284576498"
+        ]
+      }
+    ]
+  },
+  "declaredDependencies": [],
+  "notes": ""
+}
